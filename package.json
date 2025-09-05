@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-backend",
+  "version": "1.0.0",
+  "description": "huynugyenhojcit",
+  "main": "server.js",
+  "scripts": {
+    "test": "\\",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyocbo/fullstack-backend-zero0.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "huy nguyen it",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyocbo/fullstack-backend-zero0/issues"
+  },
+  "homepage": "https://github.com/huyocbo/fullstack-backend-zero0#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
