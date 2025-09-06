@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "\\",
-    "start": "node server.js"
+    "dev": "nodemon ./src/server.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/huyocbo/fullstack-backend-zero0#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.2.2"
+    ,"ejs": "^3.1.9"
+    ,"express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
+
